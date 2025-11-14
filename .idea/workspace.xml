@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f88d4a80-a49d-4760-8354-c646a3ae0a21" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/server/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="35I22htGFOlcSmah2fZpM41H3uL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "B:/Projects/flower-arc",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "B:\\Projects\\flower-arc\\client\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\Projects\flower-arc\server\src" />
+      <recent name="B:\Projects\flower-arc\frontend" />
+      <recent name="B:\Projects\flower-arc\src\components" />
+      <recent name="B:\Projects\flower-arc\src\components\Todo" />
+      <recent name="B:\Projects\flower-arc\src\components\layouts" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f88d4a80-a49d-4760-8354-c646a3ae0a21" name="Changes" comment="" />
+      <created>1762783059753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762783059753</updated>
+      <workItem from="1762783060831" duration="3907000" />
+      <workItem from="1762858529009" duration="6095000" />
+      <workItem from="1762942737694" duration="499000" />
+      <workItem from="1762943300997" duration="2381000" />
+      <workItem from="1762946130340" duration="17000" />
+      <workItem from="1762946157652" duration="113000" />
+      <workItem from="1762946282205" duration="49000" />
+      <workItem from="1762946340309" duration="172000" />
+      <workItem from="1762946537908" duration="29000" />
+      <workItem from="1762946575157" duration="16099000" />
+      <workItem from="1763023789381" duration="418000" />
+      <workItem from="1763024792957" duration="11647000" />
+      <workItem from="1763112078497" duration="8392000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
